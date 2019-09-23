@@ -1,2 +1,3 @@
-# SIGAI Monday Meetings
-This repository contains tutorials for the monday SIGAI meetings, each tutorial contains a completed tutorial and a blank one meant for the student to code themselves. Enjoy!
+# SIGAI at ACM@UIUC: Basics in Machine Learning Tutorials
+[+] Each tutorial contains a completed notebook and a partially created notebook containing the skeleton for the code.
+[+] The partially completed notebooks are meant for the student to code and experiment for themselves themselves. Enjoy!
