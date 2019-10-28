@@ -14,7 +14,6 @@ To compress an image run the `k_means.py` script with command line arguments:
   --iters ITERS         Number of iterations to run the algorithm
 ```
 
-Example: `python3 k_means.py --image-path=images/place.png --colors=64 --iters=20 --show`
++ Example: `python3 k_means.py --image-path=images/place.png --colors=64 --iters=20 --show`
 
-
-Note: You can compare the file sizes of the compressed and uncompressed image with `ls -lh images/`!
++ You can compare the file sizes of the compressed and uncompressed image with `ls -lh images/`
