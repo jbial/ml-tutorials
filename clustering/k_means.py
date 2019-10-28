@@ -1,7 +1,6 @@
 """Script for compressing images using the K-means algorithm
 """
 import numpy as np
-import matplotlib.pyplot as plt
 import argparse
 import os
 
