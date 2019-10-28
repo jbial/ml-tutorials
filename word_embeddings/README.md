@@ -1,0 +1,7 @@
+# Word Embeddings
+A simple introduction to word embeddings and Tomas Mikolov's [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf). What we'll cover:
+
+1. The motivation for continuous representations of words
+2. The skip-gram model for predicting context words
+3. TensorFlow basics (pre-version 2.0)
+4. TensorFlow's [Embedding Projector](https://projector.tensorflow.org/) for visualising learned embeddings
