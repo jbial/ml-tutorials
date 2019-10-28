@@ -6,4 +6,5 @@ A simple introduction to word embeddings and Tomas Mikolov's [Word2Vec](https://
 3. TensorFlow basics (pre-version 2.0)
 4. TensorFlow's [Embedding Projector](https://projector.tensorflow.org/) for visualising learned embeddings
 
-### Warning: This notebook lacks detailed markdown/LaTeX explainations, but will be updated accordingly. For now, please refer to the links provided in the notebook for more details.
+### Warning
++ This notebook lacks detailed markdown/LaTeX explainations, but will be updated accordingly. For now, please refer to the links provided in the notebook for more details.
