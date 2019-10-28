@@ -15,4 +15,6 @@ To compress an image run the `k_means.py` script with command line arguments:
 ```
 
 Example: `python3 k_means.py --image-path=images/place.png --colors=64 --iters=20 --show`
+
+
 Note: You can compare the file sizes of the compressed and uncompressed image with `ls -lh images/`!
