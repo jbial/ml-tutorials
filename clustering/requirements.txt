@@ -1,5 +1,4 @@
 numpy
-matplotlib
 argparse
 tqdm
 Pillow
