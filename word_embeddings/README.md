@@ -7,4 +7,5 @@ A simple introduction to word embeddings and Tomas Mikolov's [Word2Vec](https://
 4. TensorFlow's [Embedding Projector](https://projector.tensorflow.org/) for visualising learned embeddings
 
 ### Warning
++ Make sure the `wget` command is installed on your machine. If you are on Mac and have Homebrew, you can run `brew install wget` 
 + This notebook lacks detailed markdown/LaTeX explainations, but will be updated accordingly. For now, please refer to the links provided in the notebook for more details.
