@@ -7,5 +7,6 @@ An intermediate introduction to NumPy and mutlidimensional arrays (tensors). Thi
 5. NumPy accessories
 
 ## Usage
-Clone the repo, and simply run `jupyter-notebook numpy.ipynb`!
+Clone the repo and make sure to have all the necessary packages installed by running `pip3 install -r requirements.txt`.
+Then simply run `jupyter-notebook numpy.ipynb`!
 
