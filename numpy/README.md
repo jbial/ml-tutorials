@@ -4,7 +4,6 @@ An intermediate introduction to NumPy and mutlidimensional arrays (tensors). Thi
 2. Indexing
 3. Vectorization
 4. Random sampling
-5. NumPy accessories
 
 ## Usage
 Clone the repo, and simply run `jupyter-notebook numpy.ipynb`!
