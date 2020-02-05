@@ -4,7 +4,6 @@ An intermediate introduction to NumPy and mutlidimensional arrays (tensors). Thi
 2. Indexing
 3. Vectorization
 4. Random sampling
-5. NumPy accessories
 
 ## Usage
 Clone the repo and make sure to have all the necessary packages installed by running `pip3 install -r requirements.txt`.
